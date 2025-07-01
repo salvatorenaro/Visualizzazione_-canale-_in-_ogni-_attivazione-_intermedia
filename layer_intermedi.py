@@ -1,6 +1,6 @@
 #Se siete arrivati a questo punto avete una conoscenza avanzata sul machine-learning
-"Quello che vedrete ora é : La visualizzazione dei layer intermedi serve a capire cosa sta “pensando” la rete neurale quando classifica un’immagine.
-"Praticamente e come entrare all'interno della rete neurale
+#Quello che vedrete ora é : La visualizzazione dei layer intermedi serve a capire cosa sta “pensando” la rete neurale quando classifica un’immagine.
+#Praticamente e come entrare all'interno della rete neurale
 
 #Questa pratica lho usato per il dataset mnist ma potete impiegarlo anche per il modello di machine learning dogs_vs_cats
 
